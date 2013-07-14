@@ -1,0 +1,15 @@
+{
+ "main": "main.html",
+  "name": "OPass",
+  "description": "Open Password Manager",
+  "version": "0.1.0",
+  "window": {
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200
+  }
+}
